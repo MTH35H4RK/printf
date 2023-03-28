@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ * print_buffer - funct
+ * @buffer: array
+ * @buff_ind: index
+ */
 
 void print_buffer(char buffer[], int *buff_ind);
 
