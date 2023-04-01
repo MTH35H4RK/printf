@@ -56,7 +56,7 @@ Own Printf Function Tha Performs Formatted Output Conversion And Print Data.
 
 ------------
 
-### holberton.h
+### main.h
 Header File Were All Prototypes Are Saved.
 
 ------------
